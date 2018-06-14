@@ -1,7 +1,13 @@
+/*
+ * (c) 2017 Ionic Security Inc.
+ * By using this code, I agree to the included License for Ionic Resources
+ * and the Privacy Policy (https://www.ionic.com/privacy-notice/).
+ */
+
 package com.ionic.examples;
 
 /**
-* Not much to say here... this is an exception to throw when the key reader can't properly read the key.
+* This is an exception to throw when the key reader can't properly read the key.
 * This is only used in the File reader which is not used in the current implementation (only for test and 
 * development)
 */
